@@ -6,6 +6,7 @@ AppStore地址：https://itunes.apple.com/app/id1133036606
 
 ## 预览效果图
 ![pre_a](./doc/pre_a.png)
+
 ![pre_b](./doc/pre_b.png)
 ![pre_c](./doc/pre_c.png)
 ![pre_d](./doc/pre_d.png)
