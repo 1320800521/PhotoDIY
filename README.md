@@ -2,7 +2,7 @@ PhotoDIY
 ==========
 照片DIY
 
-AppStore地址：![https://itunes.apple.com/cn/app/id1198477850](https://itunes.apple.com/cn/app/id1198477850)
+AppStore地址：[https://itunes.apple.com/cn/app/id1198477850](https://itunes.apple.com/cn/app/id1198477850)
 
 ## 预览效果图
 ![pre_a](./doc/pre_a.png)
